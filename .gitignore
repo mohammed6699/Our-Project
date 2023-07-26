@@ -1,0 +1,4 @@
+*.log
+!falcon.log
+node_packs
+mohammed.txt
